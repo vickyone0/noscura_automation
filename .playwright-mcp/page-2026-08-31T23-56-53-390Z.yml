@@ -1,0 +1,16 @@
+- generic [active] [ref=e5]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - generic [ref=e231]: Sign in
+          - generic [ref=e232]: Welcome Back! Please enter your details.
+          - button "Email" [ref=e233]
+          - button "Phone" [ref=e234]
+          - generic [ref=e235]: Email
+          - textbox "Enter your email" [ref=e237]
+          - generic [ref=e238]: Password
+          - textbox "Enter your password" [ref=e240]
+          - button [ref=e241]
+          - button "Forgot password?" [ref=e242]
+          - button "Log In" [ref=e243]

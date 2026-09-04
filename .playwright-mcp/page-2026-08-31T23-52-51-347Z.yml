@@ -1,0 +1,68 @@
+- group "To make healthcare accessible to all" [ref=e6] [cursor=pointer]:
+  - button [ref=e7]
+  - group:
+    - generic [ref=e9]: Brad Pitt
+    - generic [ref=e10]: 20Y 1M
+    - generic [ref=e11]: "UHID : NC1009"
+    - generic [ref=e12]: Male
+    - generic [ref=e13]: Bed/Room
+    - generic [ref=e14]: WARD-F - 200 - BED3
+    - generic [ref=e15]: Day
+    - generic [ref=e16]: "54"
+    - generic [ref=e17]: Adm. Ref
+    - generic [ref=e18]: IP1783648968
+    - generic [ref=e19]: Adm. Date
+    - generic [ref=e20]: 10/7/2026, 7:32 AM
+    - generic [ref=e21]: Consultanat
+    - generic [ref=e22]: Dr.Kishan D
+    - generic [ref=e23]: General Medicine
+    - generic [ref=e24]: NA
+    - generic [ref=e25]: Diagnosis
+    - generic [ref=e26]: Allergies
+    - generic [ref=e27]: need to find
+    - generic [ref=e28]: Code Status
+    - generic [ref=e29]: NA
+  - group:
+    - button "Task" [ref=e30]
+    - button "Nurse's Note" [ref=e31]
+    - button "Doctor's Note" [ref=e32]
+    - button "Treatment Plan" [ref=e33]
+    - button "IP Records" [ref=e34]
+    - button "Diet Plan" [ref=e35]
+    - button "Billing" [active] [ref=e36]
+    - button "Discharge" [ref=e37]
+  - group:
+    - group:
+      - button [ref=e38]
+      - button "Add Consultant" [ref=e39]
+    - group:
+      - button "Billing" [ref=e43]
+      - button "Payment" [ref=e44]
+      - button "Estimate Bill" [ref=e45]
+      - button "Final Bill" [ref=e46]
+      - group:
+        - generic [ref=e47]: Add Items to Bill
+        - generic [ref=e48]: "Advance Paid:"
+        - generic [ref=e49]: Rs.
+        - generic [ref=e50]: 2,000
+        - generic [ref=e51]: Item Name
+        - generic [ref=e52]: "Subtotal (Before Discount):"
+        - generic [ref=e53]: Rs.
+        - generic [ref=e54]: "0"
+        - textbox "Find the item" [ref=e56]
+        - generic [ref=e57]: "Advance Amount Remaining (After Discount):"
+        - generic [ref=e58]: Rs.
+        - generic [ref=e59]: 2,000
+        - generic [ref=e60]: Quantity
+        - textbox "00" [ref=e62]
+        - generic [ref=e63]: Amount (Per Qty)
+        - textbox "00" [ref=e65]
+        - generic [ref=e66]: Total Amount
+        - textbox "00" [ref=e68]
+        - button "Add" [ref=e69]
+        - generic [ref=e70]: Room Charges
+        - textbox [ref=e72]
+        - generic [ref=e73]: "500"
+        - generic [ref=e74]: "27000"
+        - button [ref=e75]
+        - button "Print Summary" [ref=e76]

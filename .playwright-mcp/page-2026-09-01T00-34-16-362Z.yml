@@ -1,0 +1,17 @@
+- generic [active] [ref=f23e5]:
+  - generic:
+    - generic:
+      - group:
+        - group "To make healthcare accessible to all" [ref=f23e620]:
+          - button [ref=f23e621]
+          - button "Admin" [ref=f23e622]
+          - button "Outpatient" [ref=f23e623]
+          - button "Laboratory" [ref=f23e624]
+          - button "Pharmacy" [ref=f23e625]
+          - button "Inpatient" [ref=f23e626]
+          - button "Home Care" [ref=f23e627]
+          - group:
+            - generic [ref=f23e628]: Patient Search
+            - textbox "Enter the Patient's name or Phone number." [ref=f23e630]
+            - button [ref=f23e631]
+            - button "New Patient" [ref=f23e632]

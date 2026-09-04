@@ -1,0 +1,66 @@
+- 'group "6282387569 admin@noscura.in To make healthcare accessible to all Brad Pitt 20Y 1M Male UHID : NC1009 Blood Group B+ Height / Weight 0 cm / - kg BMI 0.0 BP -/- mmHg Allergies need to find Last Visit 10/7/2026 Dr.Kishan D MBBS, MS Offline Appointment Appointment Time: 1/9/2026 on 11:30 AM Health Summary by AI This male patient has no reported symptoms or current diagnosis, indicating a stable clinical status with no acute findings or treatment indicated at this time." [ref=f4e205]':
+  - button [ref=f4e207]
+  - button [ref=f4e208]
+  - button "Dashboard" [ref=f4e209]
+  - button "Template Manager" [ref=f4e210]
+  - button "View History" [ref=f4e212]
+  - button "Contact Care Manager" [ref=f4e214]
+  - button "Completed" [ref=f4e215]
+  - button [ref=f4e216]
+  - group "Consultation Room" [ref=f4e217]:
+    - button [ref=f4e218]
+  - group "Health Records" [ref=f4e219]:
+    - button [ref=f4e220]
+  - button "Profile & Calendar" [ref=f4e221]
+  - button "Settings" [ref=f4e222]
+  - button "Logout" [ref=f4e223]
+  - group:
+    - generic [ref=f4e224]: Symptoms
+    - generic [ref=f4e225]: Allergies
+    - group:
+      - generic [ref=f4e226]: Vitals
+      - button "Edit" [ref=f4e227]
+      - generic [ref=f4e228]: BP
+      - generic [ref=f4e229]: "-/- mmHg"
+      - generic [ref=f4e230]: Pulse
+      - generic [ref=f4e231]: "-/min"
+      - generic [ref=f4e232]: Temp
+      - generic [ref=f4e233]: "- F"
+      - generic [ref=f4e234]: spO2
+      - generic [ref=f4e235]: 0 %
+    - textbox [ref=f4e237]
+    - textbox [ref=f4e239]
+    - generic [ref=f4e240]: Case Notes
+    - button "Template" [ref=f4e241]
+    - button [ref=f4e242]
+    - textbox "Write case record" [ref=f4e244]
+    - generic [ref=f4e245]: Timeline
+    - generic:
+      - group:
+        - group "10/7/2026 Prescription":
+          - button "View" [ref=f4e246]
+    - generic [ref=f4e247]: Auto Saved
+    - group:
+      - button [ref=f4e248]
+      - button [ref=f4e249]
+      - generic [ref=f4e250]: "Date:"
+      - generic [ref=f4e251]: 1/9/2026
+      - generic [ref=f4e252]: Diagnosis
+      - textbox "Enter diagnosis (e.g., Acute gastroenteritis)" [ref=f4e254]
+      - generic [ref=f4e255]: Treatment Plan
+      - textbox "Enter treatment plan" [ref=f4e257]
+      - button "Medications" [ref=f4e258]
+      - button "Investigations" [ref=f4e260]
+      - button "Imaging Orders" [ref=f4e261]
+      - button "Procedures" [ref=f4e262]
+      - generic [ref=f4e263]: Follow-up
+      - generic [ref=f4e264]: Follow-up after
+      - textbox "0" [ref=f4e266]
+      - generic [ref=f4e267]: Days
+      - generic [ref=f4e268]: or Follow-up on
+      - button "Select Date" [ref=f4e269]
+      - textbox "Notes (Optional )" [ref=f4e271]
+  - button "Reschedule" [ref=f4e272]
+  - button "Cancel Appointment" [ref=f4e273]
+  - button "Pause Consultation" [ref=f4e274]
+  - button "Finish Appointment" [ref=f4e275]

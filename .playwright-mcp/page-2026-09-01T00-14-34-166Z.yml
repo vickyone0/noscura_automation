@@ -1,0 +1,146 @@
+- group "To make healthcare accessible to all" [ref=f15e6] [cursor=pointer]:
+  - button [ref=f15e7]
+  - button "Admin" [ref=f15e8]
+  - button "Outpatient" [ref=f15e9]
+  - button "Laboratory" [ref=f15e10]
+  - button "Pharmacy" [ref=f15e11]
+  - button "Inpatient" [active] [ref=f15e12]
+  - button "Home Care" [ref=f15e13]
+  - group:
+    - generic [ref=f15e72]: Total Admissions
+    - generic [ref=f15e73]: "31"
+    - generic [ref=f15e74]: New Admissions
+    - generic [ref=f15e75]: "1"
+    - button "Bed Occupancy 20.26% 31/153" [ref=f15e76]
+    - generic [ref=f15e77]: N/A
+    - generic [ref=f15e78]: Revenue
+    - generic [ref=f15e79]: Patient Search
+    - textbox "Enter the Patient's name or Phone number." [ref=f15e81]
+    - button [ref=f15e82]
+    - button "New Patient" [ref=f15e83]
+    - generic [ref=f15e84]: Patient List
+    - textbox "Search tasks by Patient name, Admission number or Phone number." [ref=f15e86]
+    - button [ref=f15e87]
+    - group:
+      - table:
+        - row "Patient Name Age Mob. No Admission No Primary Doctor Room/Bed Admission Time Action":
+          - cell "Patient Name"
+          - cell "Age"
+          - cell "Mob. No"
+          - cell "Admission No"
+          - cell "Primary Doctor"
+          - cell "Room/Bed"
+          - cell "Admission Time"
+          - cell "Action"
+    - group:
+      - group:
+        - table:
+          - row "Brad Pitt 20Y 1M 8590393383 IP1788221541 Kishan D WARD-F - 3 - BED3 1/9/2026,5:42 AM":
+            - cell "Brad Pitt"
+            - cell "20Y 1M"
+            - cell "8590393383"
+            - cell "IP1788221541"
+            - cell "Kishan D"
+            - cell "WARD-F - 3 - BED3"
+            - cell "1/9/2026,5:42 AM"
+            - cell:
+              - button [ref=f15e103]
+          - row "Automation Inpatient Vkgxraag 30Y 0M 7892766721 IP1787892808 Kishan D WARD-F - 3 - BED2 28/8/2026,10:23 AM":
+            - cell "Automation Inpatient Vkgxraag"
+            - cell "30Y 0M"
+            - cell "7892766721"
+            - cell "IP1787892808"
+            - cell "Kishan D"
+            - cell "WARD-F - 3 - BED2"
+            - cell "28/8/2026,10:23 AM"
+            - cell:
+              - button [ref=f15e111]
+          - row "Automation Inpatient Zewdvhui 30Y 0M 7889656995 IP1787889698 Kishan D WARD-F - 2 - BED4 28/8/2026,9:31 AM":
+            - cell "Automation Inpatient Zewdvhui"
+            - cell "30Y 0M"
+            - cell "7889656995"
+            - cell "IP1787889698"
+            - cell "Kishan D"
+            - cell "WARD-F - 2 - BED4"
+            - cell "28/8/2026,9:31 AM"
+            - cell:
+              - button [ref=f15e119]
+          - row "Automation Inpatient Uiycxgvb 30Y 0M 7881201264 IP1787881242 Kishan D WARD-F - 2 - BED3 28/8/2026,7:10 AM":
+            - cell "Automation Inpatient Uiycxgvb"
+            - cell "30Y 0M"
+            - cell "7881201264"
+            - cell "IP1787881242"
+            - cell "Kishan D"
+            - cell "WARD-F - 2 - BED3"
+            - cell "28/8/2026,7:10 AM"
+            - cell:
+              - button [ref=f15e127]
+          - row "Automation Inpatient Ndpmysin 30Y 0M 7800915061 IP1787800973 Kishan D WARD-F - 2 - BED2 27/8/2026,8:52 AM":
+            - cell "Automation Inpatient Ndpmysin"
+            - cell "30Y 0M"
+            - cell "7800915061"
+            - cell "IP1787800973"
+            - cell "Kishan D"
+            - cell "WARD-F - 2 - BED2"
+            - cell "27/8/2026,8:52 AM"
+            - cell:
+              - button [ref=f15e135]
+          - row "Automation Inpatient Pxpkxpxj 30Y 0M 7800799830 IP1787800857 Kishan D WARD-F - 2 - BED1 27/8/2026,8:50 AM":
+            - cell "Automation Inpatient Pxpkxpxj"
+            - cell "30Y 0M"
+            - cell "7800799830"
+            - cell "IP1787800857"
+            - cell "Kishan D"
+            - cell "WARD-F - 2 - BED1"
+            - cell "27/8/2026,8:50 AM"
+            - cell:
+              - button [ref=f15e143]
+          - row "Automation Inpatient Fxhyqzju 30Y 0M 7630640617 IP1787630708 Kishan D WARD-F - 1 - BED4 25/8/2026,9:35 AM":
+            - cell "Automation Inpatient Fxhyqzju"
+            - cell "30Y 0M"
+            - cell "7630640617"
+            - cell "IP1787630708"
+            - cell "Kishan D"
+            - cell "WARD-F - 1 - BED4"
+            - cell "25/8/2026,9:35 AM"
+            - cell:
+              - button [ref=f15e151]
+          - row "Automation Inpatient Jesicdcp 30Y 0M 7628080818 IP1787628186 Kishan D WARD-F - 1 - BED3 25/8/2026,8:53 AM":
+            - cell "Automation Inpatient Jesicdcp"
+            - cell "30Y 0M"
+            - cell "7628080818"
+            - cell "IP1787628186"
+            - cell "Kishan D"
+            - cell "WARD-F - 1 - BED3"
+            - cell "25/8/2026,8:53 AM"
+            - cell:
+              - button [ref=f15e159]
+          - row "Automation Inpatient Dqxfvpbi 30Y 0M 7627960660 IP1787628041 Kishan D WARD-F - 1 - BED2 25/8/2026,8:50 AM":
+            - cell "Automation Inpatient Dqxfvpbi"
+            - cell "30Y 0M"
+            - cell "7627960660"
+            - cell "IP1787628041"
+            - cell "Kishan D"
+            - cell "WARD-F - 1 - BED2"
+            - cell "25/8/2026,8:50 AM"
+            - cell:
+              - button [ref=f15e167]
+          - row "Automation Inpatient Ufngglbu 30Y 0M 7625385831 IP1787625421 Kishan D WARD-M - 205 - BED6 25/8/2026,8:07 AM":
+            - cell "Automation Inpatient Ufngglbu"
+            - cell "30Y 0M"
+            - cell "7625385831"
+            - cell "IP1787625421"
+            - cell "Kishan D"
+            - cell "WARD-M - 205 - BED6"
+            - cell "25/8/2026,8:07 AM"
+            - cell:
+              - button [ref=f15e175]
+    - group:
+      - button "10" [ref=f15e176]
+      - button "First page" [disabled] [ref=f15e177]
+      - button "Previous page" [disabled] [ref=f15e178]
+      - button "Next page" [ref=f15e179]
+      - button "Last page" [ref=f15e180]
+      - generic [ref=f15e181]: "Rows per page:"
+      - generic [ref=f15e182]: 1–10 of 30
+  - button "0" [ref=f15e71]

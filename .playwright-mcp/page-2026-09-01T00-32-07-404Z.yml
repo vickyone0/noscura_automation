@@ -1,0 +1,129 @@
+- generic [ref=f23e5] [cursor=pointer]:
+  - generic:
+    - generic:
+      - group "Details":
+        - group "To make healthcare accessible to all" [ref=f23e183]:
+          - button [ref=f23e184]
+          - group:
+            - generic [ref=f23e186]: Brad Pitt
+            - generic [ref=f23e187]: 20Y 1M
+            - generic [ref=f23e188]: "UHID : NC1009"
+            - generic [ref=f23e189]: Male
+            - generic [ref=f23e190]: Bed/Room
+            - generic [ref=f23e191]: WARD-F - 3 - BED3
+            - generic [ref=f23e192]: Day
+            - generic [ref=f23e193]: "1"
+            - generic [ref=f23e194]: Adm. Ref
+            - generic [ref=f23e195]: IP1788222586
+            - generic [ref=f23e196]: Adm. Date
+            - generic [ref=f23e197]: 1/9/2026, 5:59 AM
+            - generic [ref=f23e198]: Consultanat
+            - generic [ref=f23e199]: Dr.Kishan D
+            - generic [ref=f23e200]: General Medicine
+            - generic [ref=f23e201]: NA
+            - generic [ref=f23e202]: Diagnosis
+            - generic [ref=f23e203]: Allergies
+            - generic [ref=f23e204]: need to find
+            - generic [ref=f23e205]: Code Status
+            - generic [ref=f23e206]: NA
+          - group:
+            - button "Task" [ref=f23e207]
+            - button "Nurse's Note" [ref=f23e208]
+            - button "Doctor's Note" [ref=f23e209]
+            - button "Treatment Plan" [ref=f23e210]
+            - button "IP Records" [ref=f23e211]
+            - button "Diet Plan" [ref=f23e212]
+            - button "Billing" [ref=f23e213]
+            - button "Discharge" [active] [ref=f23e214]
+          - group:
+            - group:
+              - button [ref=f23e215]
+              - button "Add Consultant" [ref=f23e216]
+            - button [ref=f23e283]
+            - generic [ref=f23e284]: Date of Admission
+            - generic [ref=f23e285]: 1/9/2026 , 5:59 AM
+            - button [ref=f23e286]
+            - generic [ref=f23e287]: Date of Discharge
+            - generic [ref=f23e288]: 1/9/2026 , 6:00 AM
+            - generic [ref=f23e289]: "0"
+            - generic [ref=f23e290]: Pending Amount
+            - button "Skip Discharge Summary" [ref=f23e291]
+            - group:
+              - generic [ref=f23e292]: Discharge Patient
+              - button "Discharge" [ref=f23e293]
+              - group:
+                - generic:
+                  - group:
+                    - generic:
+                      - group:
+                        - generic [ref=f23e294]: Add Consultants
+                        - generic [ref=f23e295]: Doctor Name
+                        - generic [ref=f23e296]: Qualification
+                        - generic [ref=f23e297]: Department
+                        - textbox "Doctor Name" [ref=f23e299]
+                        - textbox "Qualification" [ref=f23e301]
+                        - textbox "Department" [ref=f23e303]
+                        - button [ref=f23e304]
+                        - group:
+                          - table:
+                            - row "Doctor Name Qualification Department Action":
+                              - cell "Doctor Name"
+                              - cell "Qualification"
+                              - cell "Department"
+                              - cell "Action"
+                        - group:
+                          - group:
+                            - table:
+                              - row "Dr.Kishan D MBBS, MS General Medicine":
+                                - cell "Dr.Kishan D"
+                                - cell "MBBS, MS"
+                                - cell "General Medicine"
+                                - cell:
+                                  - button [ref=f23e312]
+                    - generic [ref=f23e313]: Final Diagnosis:*
+                    - generic [ref=f23e314]:
+                      - textbox "Final diagnosis (e.g., Acute viral fever, Type 2 Diabetes)" [invalid] [ref=f23e315]
+                      - generic [ref=f23e316]: Final diagnosis is required
+                    - generic [ref=f23e317]: History:*
+                    - generic [ref=f23e318]:
+                      - textbox "History" [invalid] [ref=f23e319]
+                      - generic [ref=f23e320]: History is required
+                    - generic [ref=f23e321]: Investigations*
+                    - generic [ref=f23e322]:
+                      - textbox "Investigation (e.g., Complete Blood Count – Hb 11.2 g/dL, WBC 9,800)" [invalid] [ref=f23e323]
+                      - generic [ref=f23e324]: Investigations is required
+                    - generic [ref=f23e325]: Treatment Given:*
+                    - generic [ref=f23e326]:
+                      - textbox "Treatment given (e.g., IV fluids, Paracetamol 650 mg, Antibiotics)" [invalid] [ref=f23e327]
+                      - generic [ref=f23e328]: Treatment given is required
+                    - generic [ref=f23e329]: Course in Hospital:*
+                    - generic [ref=f23e330]:
+                      - textbox "Course in hospital (e.g., patient improved with treatment, vitals stabilized, no complications)" [invalid] [ref=f23e331]
+                      - generic [ref=f23e332]: Course in hospital is required
+                    - generic [ref=f23e333]: "Procedures Done:"
+                    - generic [ref=f23e334]: "Date Of Procedure:"
+                    - button "Select Date" [ref=f23e335]
+                    - textbox "Procedure done (e.g., wound suturing under local anesthesia)" [ref=f23e337]
+                    - generic [ref=f23e338]: Clinical Examination
+                    - generic [ref=f23e339]: Examination Parameter
+                    - textbox "eg:TEMP, PR, CVS etc.." [ref=f23e341]
+                    - generic [ref=f23e342]: Observed Value
+                    - 'textbox "eg: 98.8F" [ref=f23e344]'
+                    - button "Add" [ref=f23e345]
+                    - generic [ref=f23e346]: "Advice On Discharge:"
+                    - generic [ref=f23e347]: Medicine Name
+                    - textbox "Eg. Ascoril" [ref=f23e349]
+                    - generic [ref=f23e350]: "Dosage:"
+                    - textbox "Eg. 1 Tab / 5ml X morning..." [ref=f23e352]
+                    - generic [ref=f23e353]: "Duration (in days):"
+                    - textbox "Eg. 5 days" [ref=f23e355]
+                    - button "Add" [ref=f23e356]
+                    - generic [ref=f23e357]: Review:*
+                    - generic [ref=f23e358]:
+                      - textbox "Review (e.g., review after 7 days or earlier if symptoms worsen)" [invalid] [ref=f23e359]
+                      - generic [ref=f23e360]: Review is required
+                - generic [ref=f23e361]: Print/View discharge summary
+                - checkbox [checked] [ref=f23e362]
+                - button "Save Summary" [ref=f23e363]
+              - generic [ref=f23e364]: Patient billing pending.
+              - button "Print Discharge Summary" [ref=f23e365]

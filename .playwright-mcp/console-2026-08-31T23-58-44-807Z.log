@@ -1,0 +1,7 @@
+[      41ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329
+[     474ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://admin-test.noscura.net/newHomeAdmin?selectedOption=1:0
+[     866ms] Error
+[     865ms] [WARNING] [2026-08-31T23:58:45.672Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[    1278ms] Error
+[    1293ms] Error
+[    2890ms] Error

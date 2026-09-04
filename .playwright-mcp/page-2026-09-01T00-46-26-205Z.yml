@@ -1,0 +1,33 @@
+- generic [active] [ref=e5]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - dialog:
+            - group:
+              - generic [ref=e189]: Symptoms
+              - textbox [ref=e191]
+              - generic [ref=e192]: Allergies
+              - textbox [ref=e194]
+              - button "Vitals Updates ( optional )" [ref=e195]
+              - generic [ref=e196]: Blood Pressure (in mmHg)
+              - textbox "Systolic" [ref=e198]
+              - textbox "Diastolic" [ref=e200]
+              - generic [ref=e201]: Temperature (in F)
+              - generic [ref=e202]: SpO2 (in %)
+              - textbox "Body Temperature (in F)" [ref=e204]
+              - textbox "SpO2 (in %)" [ref=e206]
+              - generic [ref=e207]: Height (in cm)
+              - generic [ref=e208]: Body Weight (in kg)
+              - textbox "Height (in cm)" [ref=e210]
+              - textbox "Body Weight" [ref=e212]
+              - group "RBS" [ref=e213]:
+                - radio [ref=e214]
+              - group "FBS" [ref=e215]:
+                - radio [ref=e216]
+              - generic [ref=e217]: Blood Sugar (mg/dL)
+              - generic [ref=e218]: Pulse Rate (in bpm)
+              - textbox "Blood Sugar" [ref=e220]
+              - textbox "Pulse Rate" [ref=e222]
+            - button "Save" [ref=e223]
+            - button "Cancel" [ref=e224]

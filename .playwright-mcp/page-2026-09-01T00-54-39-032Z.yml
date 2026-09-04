@@ -1,0 +1,166 @@
+- group "6282387569 admin@noscura.in To make healthcare accessible to all" [ref=f4e317]:
+  - button [ref=f4e318]
+  - button [ref=f4e319]
+  - button "Admin" [ref=f4e320]
+  - button "Outpatient" [ref=f4e321]
+  - button "Laboratory" [ref=f4e322]
+  - button "Pharmacy" [ref=f4e323]
+  - button "Inpatient" [ref=f4e324]
+  - button "Home Care" [ref=f4e325]
+  - group:
+    - button "Dashboard" [ref=f4e326]
+    - button "Template Manager" [ref=f4e327]
+    - button "Completed" [ref=f4e328]
+    - button "Profile & Calendar" [ref=f4e329]
+    - button "Settings" [ref=f4e330]
+    - button "Logout" [ref=f4e331]
+  - group:
+    - generic [ref=f4e332]: Today’s Tasks
+    - generic [ref=f4e333]: Today’s Pending Tasks
+    - generic [ref=f4e334]: Today’s Completed Task
+    - generic [ref=f4e335]: Revenue
+    - generic [ref=f4e336]: "1"
+    - generic [ref=f4e337]: "1"
+    - generic [ref=f4e338]: "15"
+    - generic [ref=f4e339]: "1000"
+    - generic [ref=f4e340]: Patient Search
+    - textbox "Enter the patient's name or phone number." [ref=f4e342]
+    - button [ref=f4e343]
+    - button "New Patient" [ref=f4e344]
+    - generic [ref=f4e345]: List of Tasks
+    - textbox "Search tasks by patient name or doctor name." [ref=f4e347]
+    - button "Mode" [ref=f4e348]
+    - button [ref=f4e349]
+    - group:
+      - table:
+        - row "Patient Name Doctor Date & Time Mob. No Mode Action":
+          - cell:
+            - button [ref=f4e350]
+          - cell "Patient Name"
+          - cell "Doctor"
+          - cell "Date & Time"
+          - cell "Mob. No"
+          - cell "Mode"
+          - cell "Action"
+    - group:
+      - group:
+        - table:
+          - row "Sam Watson Dr. Kishan D 29/8/2026 , 7:15 AM +918590393383 Online":
+            - cell:
+              - button [ref=f4e357]
+            - cell "Sam Watson"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 7:15 AM"
+            - cell "+918590393383"
+            - cell "Online"
+            - cell:
+              - button [ref=f4e363]
+              - button [ref=f4e364]
+          - row "Sam Watson Dr. Kishan D 29/8/2026 , 8:45 AM +918590393383 Online":
+            - cell:
+              - button [ref=f4e365]
+            - cell "Sam Watson"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 8:45 AM"
+            - cell "+918590393383"
+            - cell "Online"
+            - cell:
+              - button [ref=f4e371]
+              - button [ref=f4e372]
+          - row "Automation Consultation Vfcsmqht Dr. Kishan D 29/8/2026 , 9:00 AM +917883737372 Offline":
+            - cell:
+              - button [ref=f4e373]
+            - cell "Automation Consultation Vfcsmqht"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 9:00 AM"
+            - cell "+917883737372"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e379]
+              - button [ref=f4e380]
+          - row "Automation Consultation Cjpeghes Dr. Kishan D 29/8/2026 , 9:30 AM +917884040220 Offline":
+            - cell:
+              - button [ref=f4e381]
+            - cell "Automation Consultation Cjpeghes"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 9:30 AM"
+            - cell "+917884040220"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e387]
+              - button [ref=f4e388]
+          - row "Automation Consultation Bnbywhdl Dr. Kishan D 29/8/2026 , 10:00 AM +917884371534 Offline":
+            - cell:
+              - button [ref=f4e389]
+            - cell "Automation Consultation Bnbywhdl"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 10:00 AM"
+            - cell "+917884371534"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e395]
+              - button [ref=f4e396]
+          - row "Automation Consultation Wftpmvzz Dr. Kishan D 29/8/2026 , 10:30 AM +917884854332 Offline":
+            - cell:
+              - button [ref=f4e397]
+            - cell "Automation Consultation Wftpmvzz"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 10:30 AM"
+            - cell "+917884854332"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e403]
+              - button [ref=f4e404]
+          - row "Automation Appointment Yexsfcws Dr. Kishan D 29/8/2026 , 11:00 AM +917885849809 Offline":
+            - cell:
+              - button [ref=f4e405]
+            - cell "Automation Appointment Yexsfcws"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 11:00 AM"
+            - cell "+917885849809"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e411]
+              - button [ref=f4e412]
+          - row "Automation Consultation Whkplvpy Dr. Kishan D 29/8/2026 , 11:30 AM +917886393257 Offline":
+            - cell:
+              - button [ref=f4e413]
+            - cell "Automation Consultation Whkplvpy"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 11:30 AM"
+            - cell "+917886393257"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e419]
+              - button [ref=f4e420]
+          - row "Automation Appointment Jmgfpeug Dr. Kishan D 29/8/2026 , 12:00 PM +917886935174 Offline":
+            - cell:
+              - button [ref=f4e421]
+            - cell "Automation Appointment Jmgfpeug"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 12:00 PM"
+            - cell "+917886935174"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e427]
+              - button [ref=f4e428]
+          - row "Automation Consultation Kieqnljo Dr. Kishan D 29/8/2026 , 12:30 PM +917887567185 Offline":
+            - cell:
+              - button [ref=f4e429]
+            - cell "Automation Consultation Kieqnljo"
+            - cell "Dr. Kishan D"
+            - cell "29/8/2026 , 12:30 PM"
+            - cell "+917887567185"
+            - cell "Offline"
+            - cell:
+              - button [ref=f4e435]
+              - button [ref=f4e436]
+    - group:
+      - button "10" [ref=f4e437]
+      - button "First page" [disabled] [ref=f4e438]
+      - button "Previous page" [disabled] [ref=f4e439]
+      - button "Next page" [ref=f4e440]
+      - button "Last page" [ref=f4e441]
+      - generic [ref=f4e442]: "Rows per page:"
+      - generic [ref=f4e443]: 1–10 of 18
+  - button "0" [ref=f4e444]

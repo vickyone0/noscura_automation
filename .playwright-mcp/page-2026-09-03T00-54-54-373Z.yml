@@ -1,0 +1,92 @@
+- group "To make healthcare accessible to all" [ref=e25]:
+  - button [ref=e26]
+  - button [ref=e27]:
+    - group "Narayana hospital" [ref=e28]
+  - button "Admin" [ref=e29]
+  - button "Outpatient 1 new" [ref=e30]
+  - button "Laboratory" [ref=e31]
+  - button "Pharmacy 1 new" [ref=e32]
+  - button "Inpatient" [ref=e33]
+  - button "Home Care" [ref=e34]
+  - group:
+    - button "Overview" [ref=e35]
+    - button "Patients" [ref=e36]
+    - button [ref=e37]:
+      - group "Daily" [ref=e38]
+    - generic [ref=e39]: Registrations
+    - generic [ref=e40]: Op Visits
+    - generic [ref=e41]: Lab Tests
+    - generic [ref=e42]: Pharmacy Sales
+    - generic [ref=e43]: Bed Occupancy
+    - generic [ref=e44]: "0"
+    - generic [ref=e45]: "12"
+    - generic [ref=e46]: "0"
+    - generic [ref=e47]: "0"
+    - generic [ref=e48]: "0"
+    - group:
+      - generic [ref=e49]: Collection History
+      - generic [ref=e50]: Department
+      - generic [ref=e51]: Bills
+      - generic [ref=e52]: Gross Amount
+      - generic [ref=e53]: Discount
+      - generic [ref=e54]: Refund
+      - generic [ref=e55]: Net Collection
+      - generic [ref=e56]: Total Amount
+      - generic [ref=e57]: Consultations
+      - generic [ref=e58]: "12"
+      - generic [ref=e59]: 111,000
+      - generic [ref=e60]: "0"
+      - generic [ref=e61]: "0"
+      - generic [ref=e62]: 111,000
+      - generic [ref=e63]: 111,000
+      - generic [ref=e64]: Outpatient - Procedures
+      - generic [ref=e65]: "0"
+      - generic [ref=e66]: "0"
+      - generic [ref=e67]: "0"
+      - generic [ref=e68]: "0"
+      - generic [ref=e69]: "0"
+      - generic [ref=e70]: "0"
+      - generic [ref=e71]: Inpatient
+      - generic [ref=e72]: "0"
+      - generic [ref=e73]: "0"
+      - generic [ref=e74]: "0"
+      - generic [ref=e75]: "0"
+      - generic [ref=e76]: "0"
+      - generic [ref=e77]: "0"
+      - generic [ref=e78]: Pharmacy
+      - generic [ref=e79]: "0"
+      - generic [ref=e80]: "0"
+      - generic [ref=e81]: "0"
+      - generic [ref=e82]: "0"
+      - generic [ref=e83]: "0"
+      - generic [ref=e84]: "0"
+      - generic [ref=e85]: Laboratory
+      - generic [ref=e86]: "0"
+      - generic [ref=e87]: "0"
+      - generic [ref=e88]: "0"
+      - generic [ref=e89]: "0"
+      - generic [ref=e90]: "0"
+      - generic [ref=e91]: "0"
+      - generic [ref=e92]: Revenue Overview
+      - group:
+        - generic [ref=e93]: OP
+        - generic [ref=e95]: IP
+        - generic [ref=e97]: Lab
+        - generic [ref=e99]: Pharmacy
+        - generic [ref=e101]: Procedures
+      - generic [ref=e103]: OP Tasks
+      - group:
+        - generic [ref=e104]: OP
+      - generic [ref=e106]: Pharmacy Tasks
+      - group:
+        - generic [ref=e107]: Pharmacy
+      - generic [ref=e109]: Lab Tasks
+      - group:
+        - generic [ref=e110]: Lab
+      - generic [ref=e112]: IP Bed Occupancy
+      - group:
+        - generic [ref=e113]: Occupied
+        - generic [ref=e115]: Vacant
+  - generic [ref=e117]:
+    - generic [active]: Successfully validated the license.
+  - button "0" [ref=e118]

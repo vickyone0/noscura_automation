@@ -1,0 +1,48 @@
+[     862ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329
+[    4324ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://admin-test.noscura.net/login:0
+[    6323ms] Error
+[    6338ms] Error
+[   38898ms] [VERBOSE] [DOM] Password field is not contained in a form: (More info: https://goo.gl/9p2vKq) %o @ https://admin-test.noscura.net/login:0
+[   56349ms] Error
+[   56348ms] [WARNING] [2026-09-03T00:54:48.351Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[   57026ms] Error
+[   57026ms] [WARNING] [2026-09-03T00:54:49.029Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[   57654ms] Error
+[   60116ms] Error
+[   60253ms] Error
+[   61129ms] Error
+[   61306ms] Error
+[   72836ms] Error
+[  229790ms] Error
+[  232247ms] Error
+[  232384ms] Error
+[  232500ms] Error
+[  232563ms] Error
+[  255574ms] Error
+[  255818ms] Error
+[  255998ms] Error
+[  256065ms] Error
+[  381487ms] Error
+[  381809ms] Error
+[  382222ms] Error
+[  382402ms] Error
+[  382551ms] Error
+[  382631ms] Error
+[  384472ms] Error
+[  384757ms] Error
+[  384952ms] Error
+[  385141ms] Error
+[  385205ms] Error
+[  385268ms] Error
+[  862187ms] Error
+[  862519ms] Error
+[  862924ms] Error
+[  863135ms] Error
+[  863329ms] Error
+[  863441ms] Error
+[  865748ms] Error
+[  866015ms] Error
+[  866248ms] Error
+[  866476ms] Error
+[  866552ms] Error
+[  866620ms] Error

@@ -1,0 +1,80 @@
+- generic [ref=f17e5]:
+  - generic:
+    - generic:
+      - group "Proceed":
+        - 'group "6282387569 admin@noscura.in To make healthcare accessible to all Brad Pitt 20Y 1M Male UHID : NC1009 Blood Group B+ Height / Weight 0 cm / - kg BMI 0.0 BP -/- mmHg Allergies need to find Last Visit 10/7/2026 Dr.Kishan D MBBS, MS Offline Appointment Appointment Time: 2/9/2026 on 9:00 AM Health Summary by AI This male patient has no reported symptoms or current diagnosis, indicating a stable clinical status with no acute findings or treatment indicated at this time." [ref=f17e204]':
+          - button [ref=f17e206]
+          - button [ref=f17e207]
+          - button "Dashboard" [ref=f17e208]
+          - button "Template Manager" [ref=f17e209]
+          - button "View History" [ref=f17e211]
+          - button "Contact Care Manager" [ref=f17e212]
+          - button "Completed" [ref=f17e214]
+          - button [ref=f17e215]
+          - group "Consultation Room" [ref=f17e216]:
+            - button [ref=f17e217]
+          - group "Health Records" [ref=f17e218]:
+            - button [ref=f17e219]
+          - button "Profile & Calendar" [ref=f17e220]
+          - button "Settings" [ref=f17e221]
+          - button "Logout" [ref=f17e222]
+          - group:
+            - group:
+              - generic [ref=f17e223]: Vitals
+              - button "Edit" [ref=f17e224]
+              - generic [ref=f17e225]: BP
+              - generic [ref=f17e226]: "-/- mmHg"
+              - generic [ref=f17e227]: Pulse
+              - generic [ref=f17e228]: "-/min"
+              - generic [ref=f17e229]: Temp
+              - generic [ref=f17e230]: "- F"
+              - generic [ref=f17e231]: spO2
+              - generic [ref=f17e232]: 0 %
+            - generic [ref=f17e233]: Symptoms
+            - generic [ref=f17e234]: Allergies
+            - textbox [active] [ref=f17e285]: cough
+            - textbox [ref=f17e238]
+            - generic [ref=f17e239]: Case Notes
+            - button "Template" [ref=f17e240]
+            - button [ref=f17e241]
+            - textbox "Write case record" [ref=f17e243]
+            - generic [ref=f17e244]: Timeline
+            - generic:
+              - group:
+                - group "10/7/2026 Prescription":
+                  - button "View" [ref=f17e245]
+            - generic [ref=f17e246]: Auto Saved
+            - group:
+              - button "Template" [ref=f17e247]
+              - button [ref=f17e248]
+              - button [ref=f17e249]
+              - generic [ref=f17e250]: "Date:"
+              - generic [ref=f17e251]: 1/9/2026
+              - generic [ref=f17e252]: Diagnosis
+              - textbox "Enter diagnosis (e.g., Acute gastroenteritis)" [ref=f17e254]
+              - generic [ref=f17e255]: Treatment Plan
+              - textbox "Enter treatment plan" [ref=f17e257]
+              - button "Medications" [ref=f17e258]
+              - button "Investigations" [ref=f17e260]
+              - button "Imaging Orders" [ref=f17e261]
+              - button "Procedures" [ref=f17e262]
+              - generic [ref=f17e263]: Follow-up
+              - generic [ref=f17e264]: Follow-up after
+              - textbox "0" [ref=f17e266]
+              - generic [ref=f17e267]: Days
+              - generic [ref=f17e268]: or Follow-up on
+              - button "Select Date" [ref=f17e269]
+              - textbox "Notes (Optional )" [ref=f17e271]
+              - generic [ref=f17e272]: Prescription Language
+              - button "Select language" [ref=f17e273]
+              - generic [ref=f17e274]: Print Prescription
+              - group "Yes" [ref=f17e275]:
+                - radio [ref=f17e276]
+              - group "No" [ref=f17e277]:
+                - radio [checked] [ref=f17e278]
+              - button "Save" [ref=f17e279]
+              - button "Cancel" [ref=f17e280]
+          - button "Reschedule" [ref=f17e281]
+          - button "Cancel Appointment" [ref=f17e282]
+          - button "Pause Consultation" [ref=f17e283]
+          - button "Finish Appointment" [ref=f17e284]

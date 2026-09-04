@@ -1,0 +1,18 @@
+[     154ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329
+[    1182ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://admin-test.noscura.net/newHomeAdmin?selectedOption=1:0
+[    1670ms] Error
+[    1669ms] [WARNING] [2026-09-01T00:53:27.896Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[    2574ms] Error
+[    2593ms] Error
+[    4225ms] Error
+[   69945ms] [LOG] Null check operator used on a null value @ https://admin-test.noscura.net/main.dart.js:201814
+[   69946ms] [LOG]     at _DoctorDashboardWidgetState_build______closure26.call$1 (https://admin-test.noscura.net/main.dart.js:630794:130) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69947ms] [LOG]     at Builder.build$1 (https://admin-test.noscura.net/main.dart.js:370114:27) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69947ms] [LOG]     at StatelessElement.build$0 (https://admin-test.noscura.net/main.dart.js:379442:59) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69948ms] [LOG]     at StatelessElement.performRebuild$0 (https://admin-test.noscura.net/main.dart.js:379389:23) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69949ms] [LOG]     at StatelessElement.rebuild$1$force (https://admin-test.noscura.net/main.dart.js:379279:14) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69949ms] [LOG]     at StatelessElement.update$1 (https://admin-test.noscura.net/main.dart.js:379446:12) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69950ms] [LOG]     at InheritedElement.updateChild$3 (https://admin-test.noscura.net/main.dart.js:378813:19) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69950ms] [LOG]     at InheritedElement.performRebuild$0 (https://admin-test.noscura.net/main.dart.js:379401:41) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69951ms] [LOG]     at InheritedElement.rebuild$1$force (https://admin-test.noscura.net/main.dart.js:379279:14) @ https://admin-test.noscura.net/main.dart.js:201814
+[   69952ms] [LOG]     at InheritedElement.update$1 (https://admin-test.noscura.net/main.dart.js:379519:13) @ https://admin-test.noscura.net/main.dart.js:201814

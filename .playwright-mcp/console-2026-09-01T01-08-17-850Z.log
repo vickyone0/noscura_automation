@@ -1,0 +1,6 @@
+[     368ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329
+[    1114ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://admin-test.noscura.net/newHomeAdmin?selectedOption=1:0
+[    2318ms] Error
+[    2325ms] Error
+[    3883ms] Error
+[   19681ms] Error

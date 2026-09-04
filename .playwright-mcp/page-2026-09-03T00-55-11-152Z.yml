@@ -1,0 +1,160 @@
+- group "To make healthcare accessible to all" [ref=e25] [cursor=pointer]:
+  - button [ref=e26]
+  - button [ref=e27]:
+    - group "Narayana hospital" [ref=e28]
+  - button "Admin" [ref=e29]
+  - button "Outpatient" [active] [ref=e119]
+  - button "Laboratory" [ref=e31]
+  - button "Pharmacy 1 new" [ref=e32]
+  - button "Inpatient" [ref=e33]
+  - button "Home Care" [ref=e34]
+  - group:
+    - generic [ref=e120]: Today’s Tasks
+    - generic [ref=e121]: Today’s Pending Tasks
+    - generic [ref=e122]: Today’s Completed Task
+    - generic [ref=e123]: Revenue
+    - generic [ref=e124]: "12"
+    - generic [ref=e125]: "11"
+    - generic [ref=e126]: "15"
+    - generic [ref=e127]: "111000"
+    - generic [ref=e128]: Patient Search
+    - textbox "Enter the patient's name or phone number." [ref=e130]
+    - button [ref=e131]
+    - button "New Patient" [ref=e132]
+    - generic [ref=e133]: List of Tasks
+    - textbox "Search tasks by patient name or doctor name." [ref=e135]
+    - button "Mode" [ref=e136]
+    - button [ref=e137]
+    - group:
+      - table:
+        - row "Patient Name Doctor Date & Time Mob. No Mode Action":
+          - cell:
+            - button [ref=e138]
+          - cell "Patient Name"
+          - cell "Doctor"
+          - cell "Date & Time"
+          - cell "Mob. No"
+          - cell "Mode"
+          - cell "Action"
+    - group:
+      - group:
+        - table:
+          - row "Brad Pitt Dr. Kishan D 2/9/2026 , 10:00 AM , 10:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e145]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "2/9/2026 , 10:00 AM , 10:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e151]
+              - button [ref=e152]
+          - row "Brad Pitt Dr. Kishan D 2/9/2026 , 10:30 AM , 10:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e153]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "2/9/2026 , 10:30 AM , 10:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e159]
+              - button [ref=e160]
+          - row "Brad Pitt Dr. Kishan D 2/9/2026 , 11:00 AM , 11:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e161]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "2/9/2026 , 11:00 AM , 11:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e167]
+              - button [ref=e168]
+          - row "Brad Pitt Dr. Kishan D 3/9/2026 , 9:30 AM , 9:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e169]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "3/9/2026 , 9:30 AM , 9:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e175]
+              - button [ref=e176]
+          - row "Brad Pitt Dr. Kishan D 3/9/2026 , 10:00 AM , 10:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e177]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "3/9/2026 , 10:00 AM , 10:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e183]
+              - button [ref=e184]
+          - row "Brad Pitt Dr. Kishan D 3/9/2026 , 10:30 AM , 10:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e185]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "3/9/2026 , 10:30 AM , 10:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e191]
+              - button [ref=e192]
+          - row "Brad Pitt Dr. Kishan D 3/9/2026 , 11:00 AM , 11:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e193]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "3/9/2026 , 11:00 AM , 11:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e199]
+              - button [ref=e200]
+          - row "Brad Pitt Dr. Kishan D 3/9/2026 , 11:30 AM , 11:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e201]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "3/9/2026 , 11:30 AM , 11:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e207]
+              - button [ref=e208]
+          - row "Brad Pitt Dr. Kishan D 4/9/2026 , 9:00 AM , 9:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e209]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "4/9/2026 , 9:00 AM , 9:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e215]
+              - button [ref=e216]
+          - row "Brad Pitt Dr. Kishan D 4/9/2026 , 9:30 AM , 9:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e217]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "4/9/2026 , 9:30 AM , 9:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e223]
+              - button [ref=e224]
+    - group:
+      - button "10" [ref=e225]
+      - button "First page" [disabled] [ref=e226]
+      - button "Previous page" [disabled] [ref=e227]
+      - button "Next page" [ref=e228]
+      - button "Last page" [ref=e229]
+      - generic [ref=e230]: "Rows per page:"
+      - generic [ref=e231]: 1–10 of 14
+  - button "0" [ref=e118]

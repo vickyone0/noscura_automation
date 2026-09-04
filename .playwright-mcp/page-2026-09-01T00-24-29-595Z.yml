@@ -1,0 +1,76 @@
+- generic [active] [ref=f19e5]:
+  - generic:
+    - generic:
+      - group "Details":
+        - group "To make healthcare accessible to all" [ref=f19e184]:
+          - button [ref=f19e185]
+          - group:
+            - generic [ref=f19e187]: Brad Pitt
+            - generic [ref=f19e188]: 20Y 1M
+            - generic [ref=f19e189]: "UHID : NC1009"
+            - generic [ref=f19e190]: Male
+            - generic [ref=f19e191]: Bed/Room
+            - generic [ref=f19e192]: WARD-F - 3 - BED3
+            - generic [ref=f19e193]: Day
+            - generic [ref=f19e194]: "1"
+            - generic [ref=f19e195]: Adm. Ref
+            - generic [ref=f19e196]: IP1788222110
+            - generic [ref=f19e197]: Adm. Date
+            - generic [ref=f19e198]: 1/9/2026, 5:51 AM
+            - generic [ref=f19e199]: Consultanat
+            - generic [ref=f19e200]: Dr.Kishan D
+            - generic [ref=f19e201]: General Medicine
+            - generic [ref=f19e202]: NA
+            - generic [ref=f19e203]: Diagnosis
+            - generic [ref=f19e204]: Allergies
+            - generic [ref=f19e205]: need to find
+            - generic [ref=f19e206]: Code Status
+            - generic [ref=f19e207]: NA
+          - group:
+            - button "Task" [ref=f19e208]
+            - button "Nurse's Note" [ref=f19e209]
+            - button "Doctor's Note" [ref=f19e210]
+            - button "Treatment Plan" [ref=f19e211]
+            - button "IP Records" [ref=f19e212]
+            - button "Diet Plan" [ref=f19e213]
+            - button "Billing" [ref=f19e214]
+            - button "Discharge" [ref=f19e215]
+          - group:
+            - group:
+              - button [ref=f19e216]
+              - button "Add Consultant" [ref=f19e217]
+            - group:
+              - generic [ref=f19e218]: Task Lists
+              - button "Add Task" [ref=f19e219]
+              - group:
+                - table:
+                  - row "Task Date & Time Doctor Urgency Patient Details Action":
+                    - cell:
+                      - button [ref=f19e220]
+                    - cell "Task"
+                    - cell "Date & Time"
+                    - cell "Doctor"
+                    - cell "Urgency"
+                    - cell "Patient Details"
+                    - cell "Action"
+              - group:
+                - group:
+                  - table:
+                    - row "New Admission 1/9/2026 , 5:51 AM Kishan D High Brad Pitt - WARD-F - 3 - BED3":
+                      - cell:
+                        - button [ref=f19e227]
+                      - cell "New Admission"
+                      - cell "1/9/2026 , 5:51 AM"
+                      - cell "Kishan D"
+                      - cell "High"
+                      - cell "Brad Pitt - WARD-F - 3 - BED3"
+                      - cell:
+                        - button [ref=f19e233]
+              - group:
+                - generic [ref=f19e234]: "Rows per page:"
+                - button "5" [ref=f19e235]
+                - generic [ref=f19e236]: 1–1 of 1
+                - button "First page" [disabled] [ref=f19e237]
+                - button "Previous page" [disabled] [ref=f19e238]
+                - button "Next page" [disabled] [ref=f19e239]
+                - button "Last page" [disabled] [ref=f19e241]

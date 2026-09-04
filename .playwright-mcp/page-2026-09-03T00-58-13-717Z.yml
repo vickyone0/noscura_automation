@@ -1,0 +1,102 @@
+- 'group "To make healthcare accessible to all Offline Appointment Appointment Time: 4/9/2026 on 10:00 AM" [ref=e236]':
+  - button [ref=e237]
+  - button "Narayana hospital" [ref=e238]
+  - group:
+    - generic [ref=e240]: Brad Pitt
+    - generic [ref=e241]: 20Y 1M
+    - generic [ref=e242]: "UHID : NCH000001"
+    - generic [ref=e243]: Male
+    - generic [ref=e244]: B+
+    - generic [ref=e245]: Blood Group
+    - generic [ref=e246]: Height / Weight
+    - generic [ref=e247]: 160 cm / 68 kg
+    - generic [ref=e248]: BMI
+    - generic [ref=e249]: "25.9"
+    - generic [ref=e250]: BP
+    - generic [ref=e251]: 120/80 mmHg
+    - generic [ref=e252]: Allergies
+    - generic [ref=e253]: Pencillian,pollen
+    - generic [ref=e254]: Last Visit
+    - generic [ref=e255]: 22/06/2023
+    - button "View History" [ref=e256]
+    - button "Contact Care Manager" [ref=e257]
+    - generic [ref=e259]: Dr.Kishan D
+    - generic [ref=e260]: MBBS, MS
+  - button [ref=e261]
+  - group "Consultation Room" [ref=e262]:
+    - button [ref=e263]
+  - group "Health Records New" [ref=e264]:
+    - button [ref=e265]
+  - group:
+    - generic [ref=e266]: Symptoms
+    - textbox [ref=e268]
+    - generic [ref=e269]: Allergies
+    - textbox [ref=e271]
+    - group:
+      - generic [ref=e272]: Vitals
+      - button "Edit" [ref=e273]
+      - generic [ref=e274]: BP
+      - generic [ref=e275]: "-/- mmHg"
+      - generic [ref=e276]: Pulse
+      - generic [ref=e277]: "-/min"
+      - generic [ref=e278]: Temp
+      - generic [ref=e279]: "- F"
+      - generic [ref=e280]: spO2
+      - generic [ref=e281]: 0 %
+    - generic [ref=e282]: Case Notes
+    - button [ref=e283]
+    - button "Template" [ref=e284]
+    - textbox "Write case record" [ref=e286]
+    - generic [ref=e287]: Auto Saved
+    - generic [ref=e288]: Timeline
+    - generic:
+      - group:
+        - group "2/9/2026 Prescription":
+          - button "View" [ref=e289]
+        - group "2/9/2026 Lab Report":
+          - button "View" [ref=e290]
+        - group "2/9/2026 Lab Report":
+          - button "View" [ref=e291]
+        - group "2/9/2026 Prescription":
+          - button "View" [ref=e292]
+        - group "2/9/2026 Lab Report":
+          - button "View" [ref=e293]
+    - group:
+      - button "Template" [ref=e294]
+      - button [ref=e295]
+      - button [ref=e296]
+      - generic [ref=e297]: "Date:"
+      - generic [ref=e298]: 3/9/2026
+      - generic [ref=e299]: Diagnosis
+      - textbox "Enter diagnosis (e.g., Acute gastroenteritis)" [ref=e301]
+      - generic [ref=e302]: Treatment Plan
+      - textbox "Enter treatment plan" [ref=e304]
+      - button "Medications" [ref=e305]
+      - group "Test Name Lab Instructions" [ref=e332]:
+        - button "Investigations" [active] [ref=e307]
+        - textbox "Search and select a lab test" [ref=e334]
+        - textbox "e.g., fasting required, urgent sample, collect before medication" [ref=e336]
+        - button "Add Test" [ref=e337]
+        - button "Cancel" [ref=e338]
+      - button "Imaging Orders" [ref=e308]
+      - button "Procedures" [ref=e309]
+      - generic [ref=e310]: Follow-up
+      - generic [ref=e311]: Follow-up after
+      - textbox "0" [ref=e313]
+      - generic [ref=e314]: Days
+      - generic [ref=e315]: or Follow-up on
+      - button "Select Date" [ref=e316]
+      - textbox "Notes (Optional )" [ref=e318]
+      - generic [ref=e319]: Prescription Language
+      - button "Select language" [ref=e320]
+      - generic [ref=e321]: Print Prescription
+      - group "Yes" [ref=e322]:
+        - radio [ref=e323]
+      - group "No" [ref=e324]:
+        - radio [checked] [ref=e325]
+      - button "Save" [ref=e326]
+      - button "Cancel" [ref=e327]
+  - button "Reschedule" [ref=e328]
+  - button "Cancel Appointment" [ref=e329]
+  - button "Pause Consultation" [ref=e330]
+  - button "Finish Appointment" [ref=e331]

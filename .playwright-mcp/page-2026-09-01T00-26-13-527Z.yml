@@ -1,0 +1,150 @@
+- generic [active] [ref=f19e5]:
+  - generic:
+    - generic:
+      - group:
+        - group "To make healthcare accessible to all" [ref=f19e403]:
+          - button [ref=f19e404]
+          - button "Admin" [ref=f19e405]
+          - button "Outpatient" [ref=f19e406]
+          - button "Laboratory" [ref=f19e407]
+          - button "Pharmacy" [ref=f19e408]
+          - button "Inpatient" [ref=f19e409]
+          - button "Home Care" [ref=f19e410]
+          - group:
+            - generic [ref=f19e411]: Total Admissions
+            - generic [ref=f19e412]: "30"
+            - generic [ref=f19e413]: New Admissions
+            - generic [ref=f19e414]: "0"
+            - button "Bed Occupancy 19.61% 30/153" [ref=f19e415]
+            - generic [ref=f19e416]: N/A
+            - generic [ref=f19e417]: Revenue
+            - generic [ref=f19e418]: Patient Search
+            - textbox "Enter the Patient's name or Phone number." [ref=f19e420]
+            - button [ref=f19e421]
+            - button "New Patient" [ref=f19e422]
+            - generic [ref=f19e423]: Patient List
+            - textbox "Search tasks by Patient name, Admission number or Phone number." [ref=f19e425]
+            - button [ref=f19e426]
+            - group:
+              - table:
+                - row "Patient Name Age Mob. No Admission No Primary Doctor Room/Bed Admission Time Action":
+                  - cell "Patient Name"
+                  - cell "Age"
+                  - cell "Mob. No"
+                  - cell "Admission No"
+                  - cell "Primary Doctor"
+                  - cell "Room/Bed"
+                  - cell "Admission Time"
+                  - cell "Action"
+            - group:
+              - group:
+                - table:
+                  - row "Automation Inpatient Vkgxraag 30Y 0M 7892766721 IP1787892808 Kishan D WARD-F - 3 - BED2 28/8/2026,10:23 AM":
+                    - cell "Automation Inpatient Vkgxraag"
+                    - cell "30Y 0M"
+                    - cell "7892766721"
+                    - cell "IP1787892808"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 3 - BED2"
+                    - cell "28/8/2026,10:23 AM"
+                    - cell:
+                      - button [ref=f19e442]
+                  - row "Automation Inpatient Zewdvhui 30Y 0M 7889656995 IP1787889698 Kishan D WARD-F - 2 - BED4 28/8/2026,9:31 AM":
+                    - cell "Automation Inpatient Zewdvhui"
+                    - cell "30Y 0M"
+                    - cell "7889656995"
+                    - cell "IP1787889698"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 2 - BED4"
+                    - cell "28/8/2026,9:31 AM"
+                    - cell:
+                      - button [ref=f19e450]
+                  - row "Automation Inpatient Uiycxgvb 30Y 0M 7881201264 IP1787881242 Kishan D WARD-F - 2 - BED3 28/8/2026,7:10 AM":
+                    - cell "Automation Inpatient Uiycxgvb"
+                    - cell "30Y 0M"
+                    - cell "7881201264"
+                    - cell "IP1787881242"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 2 - BED3"
+                    - cell "28/8/2026,7:10 AM"
+                    - cell:
+                      - button [ref=f19e458]
+                  - row "Automation Inpatient Ndpmysin 30Y 0M 7800915061 IP1787800973 Kishan D WARD-F - 2 - BED2 27/8/2026,8:52 AM":
+                    - cell "Automation Inpatient Ndpmysin"
+                    - cell "30Y 0M"
+                    - cell "7800915061"
+                    - cell "IP1787800973"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 2 - BED2"
+                    - cell "27/8/2026,8:52 AM"
+                    - cell:
+                      - button [ref=f19e466]
+                  - row "Automation Inpatient Pxpkxpxj 30Y 0M 7800799830 IP1787800857 Kishan D WARD-F - 2 - BED1 27/8/2026,8:50 AM":
+                    - cell "Automation Inpatient Pxpkxpxj"
+                    - cell "30Y 0M"
+                    - cell "7800799830"
+                    - cell "IP1787800857"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 2 - BED1"
+                    - cell "27/8/2026,8:50 AM"
+                    - cell:
+                      - button [ref=f19e474]
+                  - row "Automation Inpatient Fxhyqzju 30Y 0M 7630640617 IP1787630708 Kishan D WARD-F - 1 - BED4 25/8/2026,9:35 AM":
+                    - cell "Automation Inpatient Fxhyqzju"
+                    - cell "30Y 0M"
+                    - cell "7630640617"
+                    - cell "IP1787630708"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 1 - BED4"
+                    - cell "25/8/2026,9:35 AM"
+                    - cell:
+                      - button [ref=f19e482]
+                  - row "Automation Inpatient Jesicdcp 30Y 0M 7628080818 IP1787628186 Kishan D WARD-F - 1 - BED3 25/8/2026,8:53 AM":
+                    - cell "Automation Inpatient Jesicdcp"
+                    - cell "30Y 0M"
+                    - cell "7628080818"
+                    - cell "IP1787628186"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 1 - BED3"
+                    - cell "25/8/2026,8:53 AM"
+                    - cell:
+                      - button [ref=f19e490]
+                  - row "Automation Inpatient Dqxfvpbi 30Y 0M 7627960660 IP1787628041 Kishan D WARD-F - 1 - BED2 25/8/2026,8:50 AM":
+                    - cell "Automation Inpatient Dqxfvpbi"
+                    - cell "30Y 0M"
+                    - cell "7627960660"
+                    - cell "IP1787628041"
+                    - cell "Kishan D"
+                    - cell "WARD-F - 1 - BED2"
+                    - cell "25/8/2026,8:50 AM"
+                    - cell:
+                      - button [ref=f19e498]
+                  - row "Automation Inpatient Ufngglbu 30Y 0M 7625385831 IP1787625421 Kishan D WARD-M - 205 - BED6 25/8/2026,8:07 AM":
+                    - cell "Automation Inpatient Ufngglbu"
+                    - cell "30Y 0M"
+                    - cell "7625385831"
+                    - cell "IP1787625421"
+                    - cell "Kishan D"
+                    - cell "WARD-M - 205 - BED6"
+                    - cell "25/8/2026,8:07 AM"
+                    - cell:
+                      - button [ref=f19e506]
+                  - row "Automation Inpatient Eqyyzgbb 30Y 0M 7625293350 IP1787625313 Kishan D WARD-M - 205 - BED4 25/8/2026,8:05 AM":
+                    - cell "Automation Inpatient Eqyyzgbb"
+                    - cell "30Y 0M"
+                    - cell "7625293350"
+                    - cell "IP1787625313"
+                    - cell "Kishan D"
+                    - cell "WARD-M - 205 - BED4"
+                    - cell "25/8/2026,8:05 AM"
+                    - cell:
+                      - button [ref=f19e514]
+            - group:
+              - button "10" [ref=f19e515]
+              - button "First page" [disabled] [ref=f19e516]
+              - button "Previous page" [disabled] [ref=f19e517]
+              - button "Next page" [ref=f19e518]
+              - button "Last page" [ref=f19e519]
+              - generic [ref=f19e520]: "Rows per page:"
+              - generic [ref=f19e521]: 1–10 of 29
+          - button "0" [ref=f19e522]

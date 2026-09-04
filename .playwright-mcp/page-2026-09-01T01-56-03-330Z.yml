@@ -1,0 +1,80 @@
+- generic [active] [ref=f25e5] [cursor=pointer]:
+  - generic:
+    - generic:
+      - group "Proceed":
+        - 'group "6282387569 admin@noscura.in To make healthcare accessible to all Brad Pitt 20Y 1M Male UHID : NC1009 Blood Group B+ Height / Weight - cm / - kg BMI 0.0 BP -/- mmHg Allergies need to find Last Visit 10/7/2026 Dr.Kishan D MBBS, MS Offline Appointment Appointment Time: 1/9/2026 on 9:00 AM Health Summary by AI This male patient has no reported symptoms or current diagnosis, indicating a stable clinical status with no acute findings or treatment indicated at this time." [ref=f25e205]':
+          - button [ref=f25e207]
+          - button [ref=f25e208]
+          - button "Dashboard" [ref=f25e209]
+          - button "Template Manager" [ref=f25e210]
+          - button "View History" [ref=f25e212]
+          - button "Contact Care Manager" [ref=f25e213]
+          - button "Completed" [ref=f25e215]
+          - button [ref=f25e216]
+          - group "Consultation Room" [ref=f25e217]:
+            - button [ref=f25e218]
+          - group "Health Records" [ref=f25e219]:
+            - button [ref=f25e220]
+          - button "Profile & Calendar" [ref=f25e221]
+          - button "Settings" [ref=f25e222]
+          - button "Logout" [ref=f25e223]
+          - group:
+            - group:
+              - generic [ref=f25e224]: Vitals
+              - button "Edit" [ref=f25e225]
+              - generic [ref=f25e226]: BP
+              - generic [ref=f25e227]: "-/- mmHg"
+              - generic [ref=f25e228]: Pulse
+              - generic [ref=f25e229]: "-/min"
+              - generic [ref=f25e230]: Temp
+              - generic [ref=f25e231]: "- F"
+              - generic [ref=f25e232]: spO2
+              - generic [ref=f25e233]: "- %"
+            - generic [ref=f25e234]: Symptoms
+            - generic [ref=f25e235]: Allergies
+            - textbox [ref=f25e237]
+            - textbox [ref=f25e239]
+            - generic [ref=f25e240]: Case Notes
+            - button "Template" [ref=f25e241]
+            - button [ref=f25e242]
+            - textbox "Write case record" [ref=f25e244]
+            - generic [ref=f25e245]: Timeline
+            - generic:
+              - group:
+                - group "10/7/2026 Prescription":
+                  - button "View" [ref=f25e246]
+            - generic [ref=f25e247]: Auto Saved
+            - group:
+              - button "Template" [ref=f25e248]
+              - button [ref=f25e249]
+              - button [ref=f25e250]
+              - generic [ref=f25e251]: "Date:"
+              - generic [ref=f25e252]: 1/9/2026
+              - generic [ref=f25e253]: Diagnosis
+              - textbox "Enter diagnosis (e.g., Acute gastroenteritis)" [ref=f25e255]
+              - generic [ref=f25e256]: Treatment Plan
+              - textbox "Enter treatment plan" [ref=f25e258]
+              - button "Medications" [ref=f25e259]
+              - button "Investigations" [ref=f25e261]
+              - button "Imaging Orders" [ref=f25e262]
+              - button "Procedures" [ref=f25e263]
+              - generic [ref=f25e264]: Follow-up
+              - generic [ref=f25e265]: Follow-up after
+              - textbox "0" [ref=f25e267]
+              - generic [ref=f25e268]: Days
+              - generic [ref=f25e269]: or Follow-up on
+              - button "Select Date" [ref=f25e270]
+              - textbox "Notes (Optional )" [ref=f25e272]
+              - generic [ref=f25e273]: Prescription Language
+              - button "Select language" [ref=f25e274]
+              - generic [ref=f25e275]: Print Prescription
+              - group "Yes" [ref=f25e276]:
+                - radio [ref=f25e277]
+              - group "No" [ref=f25e278]:
+                - radio [checked] [ref=f25e279]
+              - button "Save" [ref=f25e280]
+              - button "Cancel" [ref=f25e281]
+          - button "Reschedule" [ref=f25e282]
+          - button "Cancel Appointment" [ref=f25e283]
+          - button "Pause Consultation" [ref=f25e284]
+          - button "Finish Appointment" [ref=f25e285]

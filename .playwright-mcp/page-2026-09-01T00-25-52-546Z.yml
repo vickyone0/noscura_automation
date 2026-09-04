@@ -1,0 +1,12 @@
+- generic [ref=f19e5]:
+  - generic:
+    - generic:
+      - group "Details":
+        - generic:
+          - alertdialog:
+            - generic "Alert":
+              - generic [ref=f19e392]:
+                - generic [active]: "Warning: Discharge Summary Not Attached"
+              - generic: Press Confirm to discharge the patient and delete all pending scheduled tasks linked to this IP admission.
+              - button "Cancel" [ref=f19e394]
+              - button "Confirm" [ref=f19e395]

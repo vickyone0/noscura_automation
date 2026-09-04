@@ -1,0 +1,55 @@
+[     319ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329
+[    3492ms] [WARNING] <meta name="apple-mobile-web-app-capable" content="yes"> is deprecated. Please include <meta name="mobile-web-app-capable" content="yes"> @ https://admin-test.noscura.net/newHomeAdmin?selectedOption=1:0
+[    3824ms] Error
+[    3824ms] [WARNING] [2026-09-03T01:17:29.528Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[    4228ms] Error
+[    4235ms] Error
+[    5752ms] Error
+[    5866ms] Error
+[    6887ms] Error
+[    7036ms] Error
+[ 1118002ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?VER=8&database=projects%2Ftesting-database-pearl%2Fdatabases%2F(default)&gsessionid=7VzgG33vKw5xj9JKl2t17fab1SH0NrQg200ZmUj3FkzpKfy7E5unsQ&SID=A32qpETRtSSzR3r9YCuJrw&RID=49892&TYPE=terminate&zx=idkc064pgesh:0
+[ 1118002ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://admin-test.noscura.net/assets/AssetManifest.bin.json:0
+[ 1118003ms] [WARNING] Error while trying to load an asset: Flutter Web engine failed to complete HTTP request to fetch "assets/AssetManifest.bin.json": TypeError: Failed to fetch @ https://admin-test.noscura.net/main.dart.js:223673
+[ 1118141ms] Error
+[ 1118143ms] [LOG] Error: google_fonts was unable to load font Sora-SemiBold because the following exception occurred:
+Unable to load asset: "AssetManifest.bin.json".
+The asset does not exist or has empty data. @ https://admin-test.noscura.net/main.dart.js:202334
+[ 1118143ms] [LOG] If troubleshooting doesn't solve the problem, please file an issue at https://github.com/flutter/flutter/issues/new/choose.
+ @ https://admin-test.noscura.net/main.dart.js:202334
+[ 1118144ms] Error
+    at Object.wrapException (https://admin-test.noscura.net/main.dart.js:8544:47)
+    at PlatformAssetBundle_load_closure.call$1 (https://admin-test.noscura.net/main.dart.js:363095:17)
+    at _RootZone.runUnary$2$2 (https://admin-test.noscura.net/main.dart.js:244983:18)
+    at _Future__propagateToListeners_handleValueCallback.call$0 (https://admin-test.noscura.net/main.dart.js:243001:51)
+    at Object._Future__propagateToListeners (https://admin-test.noscura.net/main.dart.js:11868:93)
+    at _Future._completeWithValue$1 (https://admin-test.noscura.net/main.dart.js:242818:9)
+    at _Future__asyncCompleteWithValue_closure.call$0 (https://admin-test.noscura.net/main.dart.js:242929:18)
+    at Object._microtaskLoop (https://admin-test.noscura.net/main.dart.js:11929:24)
+    at StaticClosure._startMicrotaskLoop (https://admin-test.noscura.net/main.dart.js:11935:11)
+    at _AsyncRun__initializeScheduleImmediate_internalCallback.call$1 (https://admin-test.noscura.net/main.dart.js:241791:9)
+[ 2310758ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://firestore.googleapis.com/google.firestore.v1.Firestore/Listen/channel?VER=8&database=projects%2Ftesting-database-pearl%2Fdatabases%2F(default)&RID=22562&CVER=22&X-HTTP-Session-Id=gsessionid&zx=387bsf4e6uvv&t=1:0
+[ 2310759ms] [WARNING] [2026-09-03T01:55:56.462Z]  @firebase/firestore: Firestore (11.7.0): WebChannelConnection RPC 'Listen' stream 0x2d733245 transport errored. Name: undefined Message: undefined @ https://www.gstatic.com/firebasejs/11.7.0/firebase-firestore.js:0
+[ 2310824ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/images/cleardot.gif?zx=fblolilmq39v:0
+[ 2310824ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311297ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311323ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311325ms] Error
+[ 2311325ms] [WARNING] [2026-09-03T01:55:57.029Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[ 2311326ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311327ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://securetoken.googleapis.com/v1/token?key=AIzaSyA60TnweDGD4Q3Aw14LiqTik2BW7tQT75k:0
+[ 2311328ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311329ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311330ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2311331ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2312140ms] Error
+[ 2312140ms] [WARNING] [2026-09-03T01:55:57.843Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[ 2312147ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://securetoken.googleapis.com/v1/token?key=AIzaSyA60TnweDGD4Q3Aw14LiqTik2BW7tQT75k:0
+[ 2312147ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2312149ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2312150ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2312150ms] [ERROR] Failed to load resource: net::ERR_INTERNET_DISCONNECTED @ https://www.google.com/recaptcha/enterprise/clr?k=6LebS5ktAAAAAE5iRr4bGPt8yoO14g_G4uxCm6DG:0
+[ 2314048ms] Error
+[ 2314048ms] [WARNING] [2026-09-03T01:55:59.751Z]  @firebase/auth: Auth (11.7.0): Error while retrieving App Check token: FirebaseError: AppCheck: ReCAPTCHA error. (appCheck/recaptcha-error). @ https://www.gstatic.com/firebasejs/11.7.0/firebase-auth.js:0
+[ 2314875ms] Error
+[ 2316099ms] [WARNING] Google Maps JavaScript API has been loaded directly without loading=async. This can result in suboptimal performance. For best-practice loading patterns please see https://goo.gle/js-api-loading @ https://maps.googleapis.com/maps/api/js?key=AIzaSyDrMhmHA8NmD_jRci7UQuYWNWsPC4EZgmk:329

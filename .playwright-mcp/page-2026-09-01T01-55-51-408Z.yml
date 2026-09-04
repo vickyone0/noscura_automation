@@ -1,0 +1,166 @@
+- group "6282387569 admin@noscura.in To make healthcare accessible to all" [ref=f25e6] [cursor=pointer]:
+  - button [ref=f25e7]
+  - button [ref=f25e8]
+  - button "Admin" [ref=f25e9]
+  - button "Outpatient" [ref=f25e84]
+  - button "Laboratory" [ref=f25e11]
+  - button "Pharmacy" [ref=f25e12]
+  - button "Inpatient" [ref=f25e13]
+  - button "Home Care" [ref=f25e14]
+  - group:
+    - button "Dashboard" [ref=f25e85]
+    - button "Template Manager" [ref=f25e86]
+    - button "Completed" [ref=f25e87]
+    - button "Profile & Calendar" [ref=f25e88]
+    - button "Settings" [ref=f25e89]
+    - button "Logout" [ref=f25e90]
+  - group:
+    - generic [ref=f25e91]: Today’s Tasks
+    - generic [ref=f25e92]: Today’s Pending Tasks
+    - generic [ref=f25e93]: Today’s Completed Task
+    - generic [ref=f25e94]: Revenue
+    - generic [ref=f25e95]: "14"
+    - generic [ref=f25e96]: "14"
+    - generic [ref=f25e97]: "15"
+    - generic [ref=f25e98]: "14000"
+    - generic [ref=f25e99]: Patient Search
+    - textbox "Enter the patient's name or phone number." [ref=f25e101]
+    - button [ref=f25e102]
+    - button "New Patient" [ref=f25e103]
+    - generic [ref=f25e104]: List of Tasks
+    - textbox [ref=f25e203]: Brad Pitt
+    - button "Mode" [ref=f25e107]
+    - button [ref=f25e108]
+    - group:
+      - table:
+        - row "Patient Name Doctor Date & Time Mob. No Mode Action":
+          - cell:
+            - button [ref=f25e109]
+          - cell "Patient Name"
+          - cell "Doctor"
+          - cell "Date & Time"
+          - cell "Mob. No"
+          - cell "Mode"
+          - cell "Action"
+    - group:
+      - group:
+        - table:
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 9:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e116]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 9:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e122]
+              - button [ref=f25e123]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 9:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e124]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 9:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e130]
+              - button [ref=f25e131]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 10:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e132]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 10:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e138]
+              - button [ref=f25e139]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 10:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e140]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 10:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e146]
+              - button [ref=f25e147]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 11:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e148]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 11:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e154]
+              - button [ref=f25e155]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 11:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e156]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 11:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e162]
+              - button [ref=f25e163]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 12:00 PM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e164]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 12:00 PM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e170]
+              - button [ref=f25e171]
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 12:30 PM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e172]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 12:30 PM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e178]
+              - button [ref=f25e179]
+          - row "Brad Pitt Dr. Kishan D 2/9/2026 , 9:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e180]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "2/9/2026 , 9:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e186]
+              - button [ref=f25e187]
+          - row "Brad Pitt Dr. Kishan D 2/9/2026 , 9:30 AM +918590393383 Offline":
+            - cell:
+              - button [ref=f25e188]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "2/9/2026 , 9:30 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=f25e194]
+              - button [ref=f25e195]
+    - group:
+      - generic [ref=f25e196]: "Rows per page:"
+      - button "10" [ref=f25e197]
+      - generic [ref=f25e198]: 1–10 of 14
+      - button "First page" [disabled] [ref=f25e199]
+      - button "Previous page" [disabled] [ref=f25e200]
+      - button "Next page" [ref=f25e201]
+      - button "Last page" [ref=f25e202]
+  - button "0" [ref=f25e83]

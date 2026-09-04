@@ -1,0 +1,59 @@
+- group "To make healthcare accessible to all" [ref=e225]:
+  - button [ref=e226]
+  - button "Admin" [ref=e227]
+  - button "Outpatient" [ref=e228]
+  - button "Laboratory" [ref=e229]
+  - button "Pharmacy" [ref=e230]
+  - button "Inpatient" [ref=e231]
+  - button "Home Care" [ref=e232]
+  - group:
+    - generic [ref=e233]: Today’s Tasks
+    - generic [ref=e234]: Today’s Pending Tasks
+    - generic [ref=e235]: Today’s Completed Task
+    - generic [ref=e236]: Revenue
+    - generic [ref=e237]: "1"
+    - generic [ref=e238]: "1"
+    - generic [ref=e239]: "15"
+    - generic [ref=e240]: "1000"
+    - generic [ref=e241]: Patient Search
+    - textbox "Enter the patient's name or phone number." [ref=e243]
+    - button [ref=e244]
+    - button "New Patient" [ref=e245]
+    - generic [ref=e246]: List of Tasks
+    - textbox [ref=e248]
+    - button "Mode" [ref=e249]
+    - button [ref=e250]
+    - group:
+      - table:
+        - row "Patient Name Doctor Date & Time Mob. No Mode Action":
+          - cell:
+            - button [ref=e251]
+          - cell "Patient Name"
+          - cell "Doctor"
+          - cell "Date & Time"
+          - cell "Mob. No"
+          - cell "Mode"
+          - cell "Action"
+    - group:
+      - group:
+        - table:
+          - row "Brad Pitt Dr. Kishan D 1/9/2026 , 9:00 AM , 9:00 AM +918590393383 Offline":
+            - cell:
+              - button [ref=e258]
+            - cell "Brad Pitt"
+            - cell "Dr. Kishan D"
+            - cell "1/9/2026 , 9:00 AM , 9:00 AM"
+            - cell "+918590393383"
+            - cell "Offline"
+            - cell:
+              - button [ref=e264]
+              - button [ref=e265]
+    - group:
+      - generic [ref=e266]: "Rows per page:"
+      - button "10" [ref=e267]
+      - generic [ref=e268]: 1–1 of 1
+      - button "First page" [disabled] [ref=e269]
+      - button "Previous page" [disabled] [ref=e270]
+      - button "Next page" [disabled] [ref=e271]
+      - button "Last page" [disabled] [ref=e272]
+  - button "0" [ref=e273]

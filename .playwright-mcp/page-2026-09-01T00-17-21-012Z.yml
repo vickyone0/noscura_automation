@@ -1,0 +1,12 @@
+- generic [ref=f15e5] [cursor=pointer]:
+  - generic:
+    - generic:
+      - group "Details":
+        - generic:
+          - alertdialog:
+            - generic "Alert":
+              - generic [ref=f15e399]:
+                - generic [active]: "Alert : Final bill is not generated."
+              - generic: Press Confirm to discharge the patient and delete all pending scheduled tasks linked to this IP admission.
+              - button "Cancel" [ref=f15e401]
+              - button "Confirm" [ref=f15e402]

@@ -1,0 +1,72 @@
+- generic [ref=f15e5] [cursor=pointer]:
+  - generic:
+    - generic:
+      - group "Details":
+        - group "To make healthcare accessible to all" [ref=f15e184]:
+          - button [ref=f15e185]
+          - group:
+            - generic [ref=f15e187]: Brad Pitt
+            - generic [ref=f15e188]: 20Y 1M
+            - generic [ref=f15e189]: "UHID : NC1009"
+            - generic [ref=f15e190]: Male
+            - generic [ref=f15e191]: Bed/Room
+            - generic [ref=f15e192]: WARD-F - 3 - BED3
+            - generic [ref=f15e193]: Day
+            - generic [ref=f15e194]: "1"
+            - generic [ref=f15e195]: Adm. Ref
+            - generic [ref=f15e196]: IP1788221541
+            - generic [ref=f15e197]: Adm. Date
+            - generic [ref=f15e198]: 1/9/2026, 5:42 AM
+            - generic [ref=f15e199]: Consultanat
+            - generic [ref=f15e200]: Dr.Kishan D
+            - generic [ref=f15e201]: General Medicine
+            - generic [ref=f15e202]: NA
+            - generic [ref=f15e203]: Diagnosis
+            - generic [ref=f15e204]: Allergies
+            - generic [ref=f15e205]: need to find
+            - generic [ref=f15e206]: Code Status
+            - generic [ref=f15e207]: NA
+          - group:
+            - button "Task" [ref=f15e208]
+            - button "Nurse's Note" [ref=f15e209]
+            - button "Doctor's Note" [ref=f15e210]
+            - button "Treatment Plan" [ref=f15e211]
+            - button "IP Records" [ref=f15e212]
+            - button "Diet Plan" [ref=f15e213]
+            - button "Billing" [active] [ref=f15e214]
+            - button "Discharge" [ref=f15e215]
+          - group:
+            - group:
+              - button [ref=f15e216]
+              - button "Add Consultant" [ref=f15e217]
+            - group:
+              - button "Billing" [ref=f15e242]
+              - button "Payment" [ref=f15e243]
+              - button "Estimate Bill" [ref=f15e244]
+              - button "Final Bill" [ref=f15e245]
+              - group:
+                - generic [ref=f15e246]: Add Items to Bill
+                - generic [ref=f15e247]: "Advance Paid:"
+                - generic [ref=f15e248]: Rs.
+                - generic [ref=f15e249]: "500"
+                - generic [ref=f15e250]: Item Name
+                - generic [ref=f15e251]: "Subtotal (Before Discount):"
+                - generic [ref=f15e252]: Rs.
+                - generic [ref=f15e253]: "0"
+                - textbox "Find the item" [ref=f15e255]
+                - generic [ref=f15e256]: "Advance Amount Remaining (After Discount):"
+                - generic [ref=f15e257]: Rs.
+                - generic [ref=f15e258]: "500"
+                - generic [ref=f15e259]: Quantity
+                - textbox "00" [ref=f15e261]
+                - generic [ref=f15e262]: Amount (Per Qty)
+                - textbox "00" [ref=f15e264]
+                - generic [ref=f15e265]: Total Amount
+                - textbox "00" [ref=f15e267]
+                - button "Add" [ref=f15e268]
+                - generic [ref=f15e269]: Room Charges
+                - textbox [ref=f15e271]
+                - generic [ref=f15e272]: "500"
+                - generic [ref=f15e273]: "500"
+                - button [ref=f15e274]
+                - button "Print Summary" [ref=f15e275]

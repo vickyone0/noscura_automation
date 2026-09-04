@@ -1,0 +1,45 @@
+- generic [active] [ref=f23e5]:
+  - generic:
+    - generic:
+      - group "Details":
+        - group "To make healthcare accessible to all" [ref=f23e486]:
+          - button [ref=f23e487]
+          - group:
+            - generic [ref=f23e489]: Brad Pitt
+            - generic [ref=f23e490]: 20Y 1M
+            - generic [ref=f23e491]: "UHID : NC1009"
+            - generic [ref=f23e492]: Male
+            - generic [ref=f23e493]: Bed/Room
+            - generic [ref=f23e494]: WARD-F - 3 - BED3
+            - generic [ref=f23e495]: Day
+            - generic [ref=f23e496]: "1"
+            - generic [ref=f23e497]: Adm. Ref
+            - generic [ref=f23e498]: IP1788222586
+            - generic [ref=f23e499]: Adm. Date
+            - generic [ref=f23e500]: 1/9/2026, 5:59 AM
+            - generic [ref=f23e501]: Consultanat
+            - generic [ref=f23e502]: Dr.Kishan D
+            - generic [ref=f23e503]: General Medicine
+            - generic [ref=f23e504]: NA
+            - generic [ref=f23e505]: Diagnosis
+            - generic [ref=f23e506]: Allergies
+            - generic [ref=f23e507]: need to find
+            - generic [ref=f23e508]: Code Status
+            - generic [ref=f23e509]: NA
+          - group:
+            - button "Task" [ref=f23e510]
+            - button "Nurse's Note" [ref=f23e511]
+            - button "Doctor's Note" [ref=f23e512]
+            - button "Treatment Plan" [ref=f23e513]
+            - button "IP Records" [ref=f23e514]
+            - button "Diet Plan" [ref=f23e515]
+            - button "Billing" [ref=f23e516]
+            - button "Discharge" [ref=f23e517]
+          - group:
+            - group:
+              - button [ref=f23e518]
+              - button "Add Consultant" [ref=f23e519]
+            - group:
+              - generic [ref=f23e520]: Task Lists
+              - button "Add Task" [ref=f23e521]
+              - generic [ref=f23e522]: No data available.

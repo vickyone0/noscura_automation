@@ -1,0 +1,110 @@
+- generic [ref=f4e5]:
+  - generic:
+    - generic:
+      - generic:
+        - generic:
+          - dialog:
+            - group:
+              - generic [ref=f4e223]: Book Appointments
+              - generic [ref=f4e224]: Schedule a consultation with our healthcare professionals
+              - button [ref=f4e225]
+              - generic [ref=f4e226]: Appointment Mode*
+              - button [ref=f4e227]:
+                - group "Offline" [ref=f4e228]
+              - generic [ref=f4e229]: Centre*
+              - button [ref=f4e230]:
+                - group "Narayana hospital" [ref=f4e231]
+              - generic [ref=f4e232]: Department*
+              - button [ref=f4e233]:
+                - group "General Medicine" [ref=f4e234]
+              - generic [ref=f4e235]: Doctor
+              - button [ref=f4e236]:
+                - group "Kishan D" [ref=f4e237]
+              - generic [ref=f4e238]: Any Symptoms
+              - 'textbox "e.g.: Feeling very tired, weak, or low energy." [active] [ref=f4e240]'
+              - generic [ref=f4e241]: Any Allergies
+              - textbox [ref=f4e243]
+              - generic [ref=f4e244]: September 2026
+              - button [ref=f4e245]
+              - button [ref=f4e246]
+              - generic:
+                - generic:
+                  - generic:
+                    - table:
+                      - row [ref=f4e247]
+                      - row "Sunday, August 30, 2026 Monday, August 31, 2026 Tuesday, September 1, 2026 Wednesday, September 2, 2026 Thursday, September 3, 2026 Friday, September 4, 2026 Saturday, September 5, 2026":
+                        - cell "Sunday, August 30, 2026":
+                          - button "Sunday, August 30, 2026" [ref=f4e248]
+                        - cell "Monday, August 31, 2026":
+                          - button "Monday, August 31, 2026" [ref=f4e249]
+                        - cell "Tuesday, September 1, 2026":
+                          - button "Tuesday, September 1, 2026" [ref=f4e250]
+                        - cell "Wednesday, September 2, 2026":
+                          - button "Wednesday, September 2, 2026" [ref=f4e251]
+                        - cell "Thursday, September 3, 2026":
+                          - button "Thursday, September 3, 2026" [ref=f4e252]
+                        - cell "Friday, September 4, 2026":
+                          - button "Friday, September 4, 2026" [ref=f4e253]
+                        - cell "Saturday, September 5, 2026":
+                          - button "Saturday, September 5, 2026" [ref=f4e254]
+                      - row "Sunday, September 6, 2026 Monday, September 7, 2026 Tuesday, September 8, 2026 Wednesday, September 9, 2026 Thursday, September 10, 2026 Friday, September 11, 2026 Saturday, September 12, 2026":
+                        - cell "Sunday, September 6, 2026":
+                          - button "Sunday, September 6, 2026" [ref=f4e255]
+                        - cell "Monday, September 7, 2026":
+                          - button "Monday, September 7, 2026" [ref=f4e256]
+                        - cell "Tuesday, September 8, 2026":
+                          - button "Tuesday, September 8, 2026" [ref=f4e257]
+                        - cell "Wednesday, September 9, 2026":
+                          - button "Wednesday, September 9, 2026" [ref=f4e258]
+                        - cell "Thursday, September 10, 2026":
+                          - button "Thursday, September 10, 2026" [ref=f4e259]
+                        - cell "Friday, September 11, 2026":
+                          - button "Friday, September 11, 2026" [ref=f4e260]
+                        - cell "Saturday, September 12, 2026":
+                          - button "Saturday, September 12, 2026" [ref=f4e261]
+                      - row "Sunday, September 13, 2026 Monday, September 14, 2026 Tuesday, September 15, 2026 Wednesday, September 16, 2026 Thursday, September 17, 2026 Friday, September 18, 2026 Saturday, September 19, 2026":
+                        - cell "Sunday, September 13, 2026":
+                          - button "Sunday, September 13, 2026" [ref=f4e262]
+                        - cell "Monday, September 14, 2026":
+                          - button "Monday, September 14, 2026" [ref=f4e263]
+                        - cell "Tuesday, September 15, 2026":
+                          - button "Tuesday, September 15, 2026" [ref=f4e264]
+                        - cell "Wednesday, September 16, 2026":
+                          - button "Wednesday, September 16, 2026" [ref=f4e265]
+                        - cell "Thursday, September 17, 2026":
+                          - button "Thursday, September 17, 2026" [ref=f4e266]
+                        - cell "Friday, September 18, 2026":
+                          - button "Friday, September 18, 2026" [ref=f4e267]
+                        - cell "Saturday, September 19, 2026":
+                          - button "Saturday, September 19, 2026" [ref=f4e268]
+                      - row "Sunday, September 20, 2026 Monday, September 21, 2026 Tuesday, September 22, 2026 Wednesday, September 23, 2026 Thursday, September 24, 2026 Friday, September 25, 2026 Saturday, September 26, 2026":
+                        - cell "Sunday, September 20, 2026":
+                          - button "Sunday, September 20, 2026" [ref=f4e269]
+                        - cell "Monday, September 21, 2026":
+                          - button "Monday, September 21, 2026" [ref=f4e270]
+                        - cell "Tuesday, September 22, 2026":
+                          - button "Tuesday, September 22, 2026" [ref=f4e271]
+                        - cell "Wednesday, September 23, 2026":
+                          - button "Wednesday, September 23, 2026" [ref=f4e272]
+                        - cell "Thursday, September 24, 2026":
+                          - button "Thursday, September 24, 2026" [ref=f4e273]
+                        - cell "Friday, September 25, 2026":
+                          - button "Friday, September 25, 2026" [ref=f4e274]
+                        - cell "Saturday, September 26, 2026":
+                          - button "Saturday, September 26, 2026" [ref=f4e275]
+                      - row "Sunday, September 27, 2026 Monday, September 28, 2026 Tuesday, September 29, 2026 Wednesday, September 30, 2026 Thursday, October 1, 2026 Friday, October 2, 2026 Saturday, October 3, 2026":
+                        - cell "Sunday, September 27, 2026":
+                          - button "Sunday, September 27, 2026" [ref=f4e276]
+                        - cell "Monday, September 28, 2026":
+                          - button "Monday, September 28, 2026" [ref=f4e277]
+                        - cell "Tuesday, September 29, 2026":
+                          - button "Tuesday, September 29, 2026" [ref=f4e278]
+                        - cell "Wednesday, September 30, 2026":
+                          - button "Wednesday, September 30, 2026" [ref=f4e279]
+                        - cell "Thursday, October 1, 2026":
+                          - button "Thursday, October 1, 2026" [ref=f4e280]
+                        - cell "Friday, October 2, 2026":
+                          - button "Friday, October 2, 2026" [ref=f4e281]
+                        - cell "Saturday, October 3, 2026":
+                          - button "Saturday, October 3, 2026" [ref=f4e282]
+              - button [ref=f4e283]
