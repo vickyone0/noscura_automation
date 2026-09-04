@@ -1,0 +1,9 @@
+pub mod appointments;
+pub mod auth;
+pub mod config;
+pub mod consultation;
+pub mod flutter;
+pub mod inpatient;
+pub mod lab;
+pub mod new_patient;
+pub mod pharmacy;
